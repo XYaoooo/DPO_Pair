@@ -12,6 +12,6 @@ compute reward with: reward_batch.py
 [sample data and reward for mistral-instruct mode](https://huggingface.co/datasets/YaoYX/mistral_instruct_sample)  
 ## Some CKs
  ### mistral instruct 
- ####($\max, \min$)
+ #### ($\max, \min$)  
  [huggingface link](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-1000sigma)  
 
