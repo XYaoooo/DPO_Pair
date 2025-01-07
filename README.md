@@ -11,9 +11,22 @@ compute reward with: reward_batch.py
 [sample data and reward for llama3-instruct mode](https://huggingface.co/datasets/YaoYX/llama_instruct_sample)  
 [sample data and reward for mistral-instruct mode](https://huggingface.co/datasets/YaoYX/mistral_instruct_sample)  
 ## Some CKs
- ### mistral instruct 
- #### ($\max, \min$)  
- [huggingface link](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-1000sigma)  
+ ### ($\max, \min$)  
+ [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-1000sigma)  
 
- #### ($\max, \mu-2\sgima$)  
- [huggingface link](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-2sigma)  
+ ### ($\max, \mu-2\sigma$)  
+ [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-2sigma)    
+
+
+ ### ($\max, \mu-1\sigma$)  
+ [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-sigma)    
+
+
+ ### ($\max, \mu$)  
+ [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_0sigma)    
+
+ ### ($\max, \mu+\sigma$)  
+ [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_1sigma)   
+
+  ### ($\max, \mu+2\sigma$)  
+ [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_2sigma) 
