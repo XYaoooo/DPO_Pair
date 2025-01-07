@@ -13,7 +13,7 @@ compute reward with: reward_batch.py
 ## Some CKs
  ### mistral instruct 
  [($\max, \min$)](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-1000sigma)  
- [($\max, \mu-2\sgima$)](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-2sigma) 
+ [($\max, \mu-2\sgima$)](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-2sigma)   
  [($\max, \mu-\sgima$)](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_-1sigma)  
   
 
