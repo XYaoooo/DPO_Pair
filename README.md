@@ -30,3 +30,26 @@ compute reward with: reward_batch.py
 
   ### ($\max, \mu+2\sigma$)  
  [mistral instruct](https://huggingface.co/YaoYX/Mistral_instruct_chosen_mu_1000sigma_rejected_mu_2sigma) 
+
+
+
+
+ ### ($\max, \min$)  
+ [llama instruct](https://huggingface.co/YaoYX/Llama_insruct_chosen_mu_1000sigma_rejected_mu_-1000sigma)  
+
+ ### ($\max, \mu-2\sigma$)  
+ [llama instruct](https://huggingface.co/YaoYX/Llama_insruct_chosen_mu_1000sigma_rejected_mu_-2sigma)    
+
+
+ ### ($\max, \mu-1\sigma$)  
+ [llama instruct](https://huggingface.co/YaoYX/Llama_insruct_chosen_mu_1000sigma_rejected_mu_-1sigma)    
+
+
+ ### ($\max, \mu$)  
+ [llama instruct](https://huggingface.co/YaoYX/Llama_insruct_chosen_mu_1000sigma_rejected_mu_0sigma)    
+
+ ### ($\max, \mu+\sigma$)  
+ [llama instruct](https://huggingface.co/YaoYX/Llama_insruct_chosen_mu_1000sigma_rejected_mu_1sigma)   
+
+  ### ($\max, \mu+2\sigma$)  
+ [llama instruct](https://huggingface.co/YaoYX/Llama_insruct_chosen_mu_1000sigma_rejected_mu_2sigma)
