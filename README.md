@@ -10,6 +10,8 @@ compute reward with: reward_batch.py
 [sample data and reward for mistral-base sft mode](https://huggingface.co/datasets/YaoYX/mistral_sft_sample)  
 [sample data and reward for llama3-instruct mode](https://huggingface.co/datasets/YaoYX/llama_instruct_sample)  
 [sample data and reward for mistral-instruct mode](https://huggingface.co/datasets/YaoYX/mistral_instruct_sample)  
-## CK
-
+## Some CKs
+ ### mistral instruct 
+ ($\max, \min$)
+  
 
